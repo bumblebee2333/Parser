@@ -1,0 +1,10 @@
+A->BCc
+A->gDB
+B->bCDE
+B->ε
+C->DaB
+C->ca
+D->dD
+D->ε
+E->gAf
+E->c
